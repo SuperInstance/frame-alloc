@@ -1,0 +1,10 @@
+[package]
+name = "frame-alloc"
+version = "0.1.0"
+description = "A Rust library for Frame Alloc"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/frame-alloc"
+edition = "2021"
+
+[dependencies]
+lazy_static = "1"
